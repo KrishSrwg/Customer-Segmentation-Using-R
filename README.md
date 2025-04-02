@@ -51,15 +51,19 @@ source("Customer Segmentation.R")
 
 📈 Results & Insights
 
-The customers were segmented into X clusters.
+- The customers were segmented into 4 clusters.
 
-Key insights include (to be added based on clustering results).
+- Key insights include:
+  1. Cluster 1: Customers with lowest amount of all purchases, not much withdrawals, indicates not many transactions of the credit card compared to the other clusters.
+  2. Cluster 2: Customers with lowest amount of withdrawal and frequency, however, have the highest amount of all purchases. They have the longest tenure and highest percent of full payments paid, indicating that they are aware of their credits.
+  3. Cluster 3: Customers with high amount of balance, high cash advance and high credit limit. Their balance also seemed to be updated frequently, indicates many transactions of the credit card. The customers of this cluster also have high amount of minimum payments, however, lowest percent of full payments paid, indicating higher loans amount and often like to withdraw a lot of money from the credit card.
+  4. Cluster 4: Customers with lowest amount of balance and lowest credit limit. The customers of this cluster also have the lowest of minimum payments, payments and tenure; indicating that the transactions made in these credit cards are small transactions.
+  5. Cluster 1 & 4 have the lowest amount of purchases compared with the other clusters, hence if there are offers such as reward programs, discounts using credit card, they could be the best target.
+  6. Cluster 2 & 3 also has the highest amount of payments compared with the other clusters, indicating how aware they are of their credits. Hence, if there are offers such as loyalty points, they could be the best target.
+  7. Cluster 4 relatively has the lowest amount of purchases and payments compared with the other clusters. They also can be offered to zero interest program to increase theirs purchase and payments.
 
 Further analysis can involve (e.g., improving clustering, deeper feature engineering, or visualizations).
 
-🔥 Future Enhancements
-
-✔️ Improve preprocessing (handle missing values effectively).✔️ Add interactive dashboards (Shiny App).✔️ Use different clustering techniques (DBSCAN, Hierarchical Clustering).
 
 
 
