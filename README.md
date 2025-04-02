@@ -2,14 +2,6 @@
 
 This project aims to segment customers of a credit card company to optimize marketing strategies. Using K-Means Clustering, we analyze customers' spending habits and financial behaviors to identify distinct customer groups.
 
-📂 Repository Structure
-
-📁 Customer-Segmentation
-│-- 📂 Visualizations (Plots and clustering results)
-│-- 📄 README.md (Project Documentation)
-│-- 📄 Customer Segmentation.R (R script for analysis)
-│-- 📄 Data.csv (Dataset used for clustering)
-
 
 📊 Dataset Details
 
