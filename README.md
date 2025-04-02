@@ -5,10 +5,11 @@ This project aims to segment customers of a credit card company to optimize mark
 📂 Repository Structure
 
 📁 Customer-Segmentation
+│-- 📂 Visualizations (Plots and clustering results)
 │-- 📄 README.md (Project Documentation)
 │-- 📄 Customer Segmentation.R (R script for analysis)
 │-- 📄 Data.csv (Dataset used for clustering)
-│-- 📂 Visualizations (Plots and clustering results)
+
 
 📊 Dataset Details
 
